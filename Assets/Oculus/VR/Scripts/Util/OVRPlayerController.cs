@@ -76,7 +76,7 @@ public class OVRPlayerController : MonoBehaviour
 	/// <summary>
 	/// Modifies the strength of gravity.
 	/// </summary>
-	public float GravityModifier = 0.379f;
+	public float GravityModifier = 0;
 
 	/// <summary>
 	/// If true, each OVRPlayerController will use the player's physical height.

@@ -47,7 +47,7 @@ public class TreasureHunter : MonoBehaviour
             
             totScore = calculateScore();
             
-            GameObject.Find("score").GetComponent<TextMesh>().text = "Yiwei Wang" +totScore;
+            GameObject.Find("score").GetComponent<TextMesh>().text = "count: " + this.gameObject.GetComponent<TreasureHunterInventory>().inventoryItems.Count + "score: " + totScore;
         }
 
         

@@ -1,0 +1,4 @@
+#Wed Feb 19 15:46:56 EST 2020
+base.0=C\:\\Users\\Ruth\\Desktop\\unity\\COMP590 Assignment 1 Yiwei Wang\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
